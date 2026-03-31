@@ -1,1 +1,4 @@
 Model vs model with diff output sentenc length
+
+
+attension vs mamba vs SSM vs RRN
