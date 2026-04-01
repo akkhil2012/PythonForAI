@@ -15,3 +15,5 @@ explain with example how low level model loading mor benefical than usig pipelin
 llama vs falcome reasoning comparison?
 
 prretrained model vs from scratch model? When we ned to train model from scratch?
+
+Implementation of RAG using python Vs using PyTorch?
