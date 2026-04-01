@@ -13,3 +13,5 @@ type of agents as: 1. rule based 2, memory based 3. pipeline based
 explain with example how low level model loading mor benefical than usig pipeline DSL
 
 llama vs falcome reasoning comparison?
+
+prretrained model vs from scratch model? When we ned to train model from scratch?
