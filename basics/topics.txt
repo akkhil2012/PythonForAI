@@ -6,3 +6,6 @@ real time example
 
 
 agent using executorch
+
+
+type of agents as: 1. rule based 2, memory based 3. pipeline based
