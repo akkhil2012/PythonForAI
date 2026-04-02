@@ -19,3 +19,10 @@ prretrained model vs from scratch model? When we ned to train model from scratch
 Implementation of RAG using python Vs using PyTorch?
 
 quantization of models? usecase and typs of quaization
+| Method               | Compression | Accuracy Impact | Use Case    |
+| -------------------- | ----------- | --------------- | ----------- |
+| Dynamic Quantization | 2x–4x       | Low             | NLP, LLM    |
+| Static Quantization  | 3x–4x       | Medium          | CV models   |
+| QAT                  | 3x–4x       | Very Low        | Production  |
+| Manual INT8          | ~4x         | Depends         | Edge / ONNX |
+
