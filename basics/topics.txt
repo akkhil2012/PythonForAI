@@ -17,3 +17,5 @@ llama vs falcome reasoning comparison?
 prretrained model vs from scratch model? When we ned to train model from scratch?
 
 Implementation of RAG using python Vs using PyTorch?
+
+quantization of models? usecase and typs of quaization
